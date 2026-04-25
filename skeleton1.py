@@ -5,6 +5,7 @@ class DiceSet:
     values.
     
     Author: Rachel Galloway
+    
     """
     def __init__(self, num_dice=6):
         self.num_dice = num_dice
