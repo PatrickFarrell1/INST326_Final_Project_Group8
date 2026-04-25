@@ -8,6 +8,7 @@ def calculate_matches(self):
     later for even/odd rule
 
     Author: Patrick Farrell
+    
     """
     score = 0
     match_count = 0
