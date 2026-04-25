@@ -2,7 +2,7 @@ class GameConditions:
     
     """
     Game conditions class with methods for calculating scores, even/odd rule,
-    blistering, and sixes rule.
+    blistering and sixes rule.
     
     Author: Terry Thompson
     
