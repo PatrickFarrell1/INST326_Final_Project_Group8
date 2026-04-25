@@ -5,6 +5,7 @@ class Turn_manager:
     turn it is and when the game ends.
     
     Author: Sheila Matumla
+    
     """
     def __init__(self, players, player_index):
         self.players = players
