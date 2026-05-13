@@ -36,12 +36,12 @@ Attribution Table:
 
 | Method/Function | Primary Author | Technique Claimed |
 |---|---|---|
-| DiceSet.__init__ | Rachel Galloway | 2. optional parameters and/or keyword arguments |
+| `DiceSet.__init__` | Rachel Galloway | 2. optional parameters and/or keyword arguments |
 | DiceSet.display | Rachel Galloway | 3. f-strings containing expressions |
-| GameConditions.__init__ | Terry Thompson | 2. optional parameters and/or keyword arguments |
+| `GameConditions.__init__` | Terry Thompson | 2. optional parameters and/or keyword arguments |
 | calculate_matches | Patrick Farrell | 6. sequence unpacking |
 | calculate_matches | Patrick Farrell | 8. comprehensions and/or generator expressions |
-| turn_manager.__init__ | Sheila Matumla | 2. optional parameters and/or keyword arguments |
+| `turn_manager.__init__` | Sheila Matumla | 2. optional parameters and/or keyword arguments |
 | turn_manager.next_turn | Sheila Matumla | N/A |
 | play_game | Everyone | 11. composition of two custom classes |
 | play_game | Everyone | 3. f-strings containing expressions |
