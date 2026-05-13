@@ -17,6 +17,12 @@ skeleton1.py - Class for rolling dice and determining/displaying values.
 
 Finalized_full_game.py - Complete combined program with playable Blisters game
 
+
+How to run Finalized_full_game.py:
+
+Simply follow the instructions given in the terminal. Most input messages are simple, asking for either a yes or no, or a player name. Simply input the information, and hit enter.
+
+
 Annotated bibliography:
 
 Blisters Dice Game. Blisters Game Rules. https://blistersgame.com/about/blisters-game-rules/ This is the games official website. This website gave us a step by step of how the game is played along with examples. This gave us a better look of how to structure the code and in what order.
@@ -24,3 +30,18 @@ Blisters Dice Game. Blisters Game Rules. https://blistersgame.com/about/blisters
 Skydeluger. (2017). Blisters Dice Game tutorial. YouTube. https://www.youtube.com/watch?v=1EfysAQb-4o This is a youtube tutorial video that walked us through how to play the game and some examples. This was an important part of our project so we could truly understand how this game works and how we will be able to implement it into python code.
 
 Blogger. (2012). Dice Games- Blister. Accessed 2026. https://abitdicey.blogspot.com/2012/03/blisters.html This is a website that links to a blogger about more on how the game operates. Tells us how scoring works and what a turn means in the game.
+
+
+Attribution Table:
+
+Method/Function                        Primary Author                        Technique Claimed
+
+DiceSet.__init__                       Rachel Galloway                       2. optional parameters and/or keyword arguments
+DiceSet.display                        Rachel Galloway                       3. f-strings containing expressions
+GameConditions.__init__                Terry Thompson                        2. optional parameters and/or keyword arguments
+calculate_matches                      Patrick Farrell                       6. sequence unpacking
+                                                                             8. comprehensions and/or generator expressions
+turn_manager.__init__                  Sheila Matumla                        2. optional parameters and/or keyword arguments
+turn_manager.next_turn                 Sheila Matumla                        N/A
+play_game                              Everyone                              11. composition of two custom classes
+                                                                             3. f-strings containing expression
