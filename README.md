@@ -15,6 +15,7 @@ calculate_matches.py - Function for calculating matches and player scores.
 
 skeleton1.py - Class for rolling dice and determining/displaying values.
 
+Finalized_full_game.py - Complete combined program with playable Blisters game
 
 Annotated bibliography:
 
